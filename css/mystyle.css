@@ -1,0 +1,240 @@
+body{
+	background-image: url(img/space.jpg);
+}
+
+}
+
+.string{
+	display: block;
+}
+.registration{
+	background: linear-gradient(to left,#9932CC, #4B0082);
+	border:1px solid black;
+	border-radius: 8px;
+	padding: 2px;
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 500px;
+	height: 265px;
+	min-height: 265px;
+	min-width: 500px;
+	color: white;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+}
+.registration input[type=text], .registration input[type=password],.registration input[type=number]{
+	width: 500px;
+	height: 30px;
+	border-radius: 8px;
+}
+.registration input[type=button], .registration input[type=submit]{
+	float: left;
+	width: 100px;
+	margin: 15px;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+	border-radius: 8px;
+	background: #DDA0DD;
+}
+
+.string2{
+	display: block;	
+}
+.authorization{
+	background: linear-gradient(to left,#9932CC, #4B0082);
+	border-radius: 8px;
+	border:1px solid black;
+	padding: 2px;
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 500px;
+	height: 195px;
+	min-height: 195px;
+	min-width: 500px;
+	color: white;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+
+
+}
+.authorization input[type=text], .authorization input[type=password]{
+	width: 500px;
+	height: 30px;
+	border-radius: 8px;
+}
+.authorization input[type=button], .authorization input[type=submit]{
+	float: left;
+	width: 120px;
+	margin: 15px;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+	border-radius: 8px;
+	background: #DDA0DD;
+}
+
+
+.string3{
+	display: block;
+	
+}
+.message{
+	background: linear-gradient(to left,#9932CC, #4B0082);
+	border-radius: 8px;
+	border:1px solid black;
+	padding: 2px;
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 497px;
+	height: 310px;
+	min-height: 310px;
+	min-width: 497px;
+	color: white;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+
+
+}
+
+.message input[type=button], .message input[type=submit]{
+	float: left;
+	width: 120px;
+	margin: 15px;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+	border-radius: 8px;
+	background: #DDA0DD;
+}
+
+
+.textare{
+	border-radius: 8px;
+}
+
+.string4{
+	display: block;
+	
+}
+.display{
+	background: linear-gradient(to left,#9932CC, #4B0082);
+	border-radius: 8px;
+	border:1px solid black;
+	padding: 2px;
+	margin: 0 auto;
+	width: 497px;
+	height: 940px;
+	min-height: 940px;
+	min-width: 497px;
+	color: white;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+
+}
+
+.display input[type=button], .display input[type=submit]{
+	float: left;
+	width: 130px;
+	margin: 15px;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+	border-radius: 8px;
+	background: #DDA0DD;
+}
+
+
+.wrong{
+	background: linear-gradient(to left,#9932CC, #4B0082);
+	border-radius: 8px;
+	border:1px solid black;
+	padding: 2px;
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 500px;
+	height: 115px;
+	min-height: 115px;
+	min-width: 500px;
+	color: white;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+}
+
+.wrong input[type=button], .wrong input[type=submit]{
+	float: left;
+	width: 130px;
+	margin: 15px;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+	border-radius: 8px;
+	background: #DDA0DD;
+}
+
+.wrongreg{
+	background: linear-gradient(to left,#9932CC, #4B0082);
+	border-radius: 8px;
+	border:1px solid black;
+	padding: 2px;
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 500px;
+	height: 115px;
+	min-height: 115px;
+	min-width: 500px;
+	color: white;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+}
+
+.wrongreg input[type=button], .wrongreg input[type=submit]{
+	float: left;
+	width: 130px;
+	margin: 15px;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+	border-radius: 8px;
+	background: #DDA0DD;
+}
+
+
+.regcomplete {
+	background: linear-gradient(to left,#9932CC, #4B0082);
+	border-radius: 8px;
+	border:1px solid black;
+	padding: 2px;
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 500px;
+	height: 115px;
+	min-height: 115px;
+	min-width: 500px;
+	color: white;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+}
+
+.regcomplete input[type=button], .regcomplete input[type=submit]{
+	float: left;
+	width: 130px;
+	margin: 15px;
+	font-size: 30px;
+	font-family: Edwardian Script ITC;
+	border-radius: 8px;
+	background: #DDA0DD;
+}
+
+#messagebox{
+	font-size: 15px;
+	border:1px solid black;
+	margin:10px;
+	padding:10px;
+	min-height: 800px;
+	border-radius: 8px;
+}
+
+.textare{
+	resize: none;
+	
+}
+
+.textaredisplay{
+	color: white;
+	resize: none;
+}
